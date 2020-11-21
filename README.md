@@ -1,1 +1,1 @@
-# ML-Photovoltic-Performance-Evaluation-for-Perovskite-Solar-Cell
+# ML-electronic properties prediction for Li batteries
